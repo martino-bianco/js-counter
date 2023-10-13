@@ -5,9 +5,12 @@ main {
 }
 .container {
   text-align: center;
+  border: 10px solid;
+  border-radius: 25px;
+  padding: 10px;
 }
 #value {
-  font-size: 6rem;
+  font-size: 7rem;
   font-weight: bold;
 }
 .btn {
